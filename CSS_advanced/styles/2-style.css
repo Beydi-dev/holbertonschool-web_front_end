@@ -1,5 +1,6 @@
 html {
 	scroll-behavior: smooth;
+}
 	
 	body {
 		color: #161616;
@@ -20,4 +21,3 @@ html {
 	.section-tagline {
 		color: #D73953
 	}
-}
